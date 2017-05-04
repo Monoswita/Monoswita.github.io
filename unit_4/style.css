@@ -4,10 +4,13 @@ body {text-align:center;background:img src="mangrove.jpg"; background-size: cove
 hr{width: 250px;
 }
 
-h2{font-size: 35px;
-	font-family: 'Inknut Antiqua', serif;}
 
-p{font-size: 25px;
-	font-family: 'Bree Serif', serif;
+p{font-size: 40px;
+	font-family: 'Inknut Antiqua', serif;
+	line-height: 1.5em;
+	margin: 2em;
 }
 
+strong{
+	font-variant: small-caps;
+}
